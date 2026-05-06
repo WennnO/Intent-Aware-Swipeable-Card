@@ -6,6 +6,44 @@ If this repo helps you, **leave a star** — it makes a difference.
 
 ---
 
+## Demo
+
+<table>
+<tr valign="top">
+<td width="55%">
+
+<video src="demo.mp4" controls playsinline width="400">
+  <a href="demo.mp4">Open demo.mp4</a>
+</video>
+
+</td>
+<td width="45%">
+
+Gesture angle schematic (movement relative to axes in <code>SwipeableCard.js</code>):
+
+<pre>
+↑
+│
+│
+│small angle         /
+│                 /
+│              /  
+│           /
+│        /
+│     /  large angle
+│  /
+└────────────────→
+</pre>
+
+Rough mapping: shallow angle (~horizontal drift) tends toward horizontal card intent;
+steeper angle tends toward vertical / scroll territory.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Reproduce locally
 
 **Requirements:** Node.js (LTS), npm, and [Expo Go](https://expo.dev/go) or a dev build.
