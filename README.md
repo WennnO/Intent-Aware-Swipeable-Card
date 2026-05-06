@@ -50,8 +50,8 @@ steeper angle tends toward vertical / scroll territory.
 **Requirements:** Node.js (LTS), npm, and [Expo Go](https://expo.dev/go) or a dev build.
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/WennnO/Intent-Aware-Swipeable-Card.git
+cd Intent-Aware-Swipeable-Card
 npm install
 npx expo start
 ```
