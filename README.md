@@ -12,9 +12,10 @@ If this repo helps you, **leave a star** — it makes a difference.
 <tr valign="top">
 <td width="55%">
 
-<video src="demo.mp4" controls playsinline width="400">
-  <a href="demo.mp4">Open demo.mp4</a>
-</video>
+
+https://github.com/user-attachments/assets/9af34a52-7e29-423e-a24e-6adbd2422095
+
+
 
 </td>
 <td width="45%">
