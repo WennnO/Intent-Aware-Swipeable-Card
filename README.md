@@ -78,4 +78,4 @@ Examples: onboarding inside a scrollable page, discovery feeds with a stacked he
 
 ## License
 
-Use and modify freely for your own apps; no warranty implied.
+[MIT](LICENSE) — see the `LICENSE` file for full text.
