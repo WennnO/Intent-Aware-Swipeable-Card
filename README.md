@@ -10,7 +10,7 @@ If this repo helps you, **leave a star** — it makes a difference.
 
 <table>
 <tr valign="top">
-<td width="55%">
+<td width="55%" align="center">
 
 
 https://github.com/user-attachments/assets/9af34a52-7e29-423e-a24e-6adbd2422095
